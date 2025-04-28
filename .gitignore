@@ -1,0 +1,17 @@
+# Ignore all files
+*
+
+# Include these files
+!.gitignore
+!*.csv
+!*.cpp
+!*.hpp
+!*.h
+!*.exe
+!*.md
+!*.png
+!*.pdf
+!headers/
+!sample_run_screenshots/
+!*.o
+!*.c
